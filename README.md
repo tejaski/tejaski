@@ -1,4 +1,4 @@
-### Hey,[Haany here!]
+### Hey,Tejas here!
 
 
 ## :computer: Technologies I Love
