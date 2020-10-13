@@ -10,11 +10,11 @@
 ## Skills
 
 <img src = 'https://github.com/tejaski/tejaski/blob/main/images/MSBI.png' width='250'/>
-<img src = 'https://github.com/tejaski/tejaski/blob/main/images/sql%20server.png' width='250'/>
-<img src = 'https://github.com/tejaski/tejaski/blob/main/images/python.jpg' width='250'/>
-<img src = 'https://github.com/tejaski/tejaski/blob/main/images/Tableau.png' width='250'/>
-<img src = 'https://github.com/tejaski/tejaski/blob/main/images/jupyter.png' width='250'/>
-<img src = 'https://github.com/tejaski/tejaski/blob/main/images/colab.png' width='250'/>
+<img src = 'https://github.com/tejaski/tejaski/blob/main/images/sql%20server.png' width='50'/>
+<img src = 'https://github.com/tejaski/tejaski/blob/main/images/python.jpg' width='50'/>
+<img src = 'https://github.com/tejaski/tejaski/blob/main/images/Tableau.png' width='50'/>
+<img src = 'https://github.com/tejaski/tejaski/blob/main/images/jupyter.png' width='50'/>
+<img src = 'https://github.com/tejaski/tejaski/blob/main/images/colab.png' width='50'/>
 
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tejaski&layout=compact">
