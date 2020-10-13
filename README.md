@@ -9,7 +9,7 @@
 
 ## Skills
 
-<img src = 'https://github.com/tejaski/tejaski/blob/main/images/MSBI.png' width='30'/>
+<img src = 'https://github.com/tejaski/tejaski/blob/main/images/MSBI.png' width='100'/>
 
 
 
