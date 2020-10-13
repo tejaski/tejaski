@@ -6,6 +6,14 @@
 * Data Engineering
 * Machine Learning
 
+
+## Skills
+
+<img src = 'https://github.com/tejaski/tejaski/blob/main/images/MSBI.png' width='30'/>
+
+
+
+
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tejaski&layout=compact">
 
 
