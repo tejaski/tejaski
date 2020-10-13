@@ -20,6 +20,8 @@
 * Methodologies: Continuous integration and delivery, Scrum, Agile
 
 
+
+
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tejaski&layout=compact">
 
 
