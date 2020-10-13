@@ -9,25 +9,17 @@
 
 ## Skills
 
-<img src = 'https://github.com/tejaski/tejaski/blob/main/images/MSBI.png' width='250'/> <img src = 'https://github.com/tejaski/tejaski/blob/main/images/sql%20server.png' width='100'/> <img src = 'https://github.com/tejaski/tejaski/blob/main/images/python.jpg' width='100'/> <img src = 'https://github.com/tejaski/tejaski/blob/main/images/Tableau.png' width='100'/> <img src = 'https://github.com/tejaski/tejaski/blob/main/images/jupyter.png' width='100'/>
-<img src = 'https://github.com/tejaski/tejaski/blob/main/images/colab.png' width='100'/> 
+* Languages: Python
+* Libraries: pandas, numpy, scikit learn
+* Database: Microsoft SQL Server, T-SQL, MySQL, PostgreSQL
+* ETL: MSBI (Microsoft Business intelligence), SQL Server Integration Services (SSIS)
+* Reporting & Visualizations: Tableau, SQL Server Reporting Services (SSRS), PowerBI
+* IDE: Jupyter Notebook, Visual Studio, Google Colab
+* Code Versioning System: Team Foundation Server (TFS), GIT
+* Tools: Anaconda, SQL Server Management Studio, Microsoft Office, Visio, DBAmp, Slack, Webex
+* Methodologies: Continuous integration and delivery, Scrum, Agile
 
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tejaski&layout=compact">
 
 
-
-<!--
-**tejaski/tejaski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
