@@ -5,6 +5,7 @@
 ## :computer: Technologies I Love
 * Data Analytics
 * Data Engineering
+* Business Intelligence
 * Machine Learning
 
 
