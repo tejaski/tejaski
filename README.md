@@ -29,4 +29,14 @@
 <br />
 <br />
 
+## Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tejaski&show_icons=true)  
+
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tejaski&layout=compact">
+
+## Contact
+
+<a href="https://www.linkedin.com/in/tejaski/">
+  <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a> 
