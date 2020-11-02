@@ -23,7 +23,7 @@
 
 
 ## Certifications
-
+<a href="https://www.youracclaim.com/badges/c330886b-5a7d-4112-89b0-d4803fba6bc6"><img src="https://github.com/tejaski/tejaski/blob/main/images/Data_Analysis_using_Python.png" width="150" height="150"/></a>
 <a href="https://www.youracclaim.com/badges/b7b8d7d7-7eb7-41b1-bda2-e379763120f6"><img src="https://github.com/tejaski/tejaski/blob/main/images/Python_for_Data_Science_IBM.png" width="150" height="150"/></a>
 <a href="https://www.youracclaim.com/badges/31dbec88-f233-4fdf-8f67-b88dc7600755"><img src="https://github.com/tejaski/tejaski/blob/main/images/Tableau%20author.png" width="150" height="150"/></a>
 <br />
