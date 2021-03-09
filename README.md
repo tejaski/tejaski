@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋 </h1>
 
-<h3><p> I'm Tejas, Data Engineer from <img src="https://image.flaticon.com/icons/svg/3909/3909444.svg" width="23"/> <b>Bangalore, India</b>, currently living in <img src="https://image.flaticon.com/icons/svg/197/197567.svg" width="23"/> <b>Dublin, Ireland</b>. </p><h3>
+<h3><p> I'm Tejas, Data Engineer from <img src="https://image.flaticon.com/icons/svg/3909/3909444.svg" width="17"/> <b>Bangalore, India</b>, currently living in <img src="https://image.flaticon.com/icons/svg/197/197567.svg" width="17"/> <b>Dublin, Ireland</b>. </p><h3>
 
 ## :computer: Technologies I Love
 * Data Analytics
