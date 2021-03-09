@@ -37,9 +37,4 @@
 
 ## Contact
 
-<a href="https://www.linkedin.com/in/tejaski/">
-  <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a> 
-
-
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="tejaski"><a class="LI-simple-link" href='https://ie.linkedin.com/in/tejaski?trk=profile-badge'>Tejas Karimanne Indushekar</a></div>
