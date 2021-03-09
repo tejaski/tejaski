@@ -1,5 +1,4 @@
 <h1 align="center">Hey 👋, Tejas here !! </h1>
-<h3 align="center">A passionate Data Analyst</h3>
 
 
 ## :computer: Technologies I Love
